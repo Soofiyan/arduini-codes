@@ -1,1 +1,1 @@
-# arduini-codes
+# arduino-codes
